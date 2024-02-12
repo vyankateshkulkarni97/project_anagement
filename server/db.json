@@ -1,0 +1,29 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "projectName": "Project 1",
+        "status": "Running",
+        "endDate": "2024-12-31"
+      },
+      {
+        "id": 2,
+        "projectName": "Project 2",
+        "status": "Closed",
+        "endDate": "2024-02-28"
+      },
+      {
+        "id": 3,
+        "projectName": "Project 3",
+        "status": "Running",
+        "endDate": "2023-12-15"
+      },
+      {
+        "id": 4,
+        "projectName": "Project 4",
+        "status": "Cancelled",
+        "endDate": "2023-09-30"
+      }
+    ]
+  }
+  
