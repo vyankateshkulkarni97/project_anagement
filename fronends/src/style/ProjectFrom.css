@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+  .card {
+    max-width: 100%; 
+  }
+}
+
+.form-group {
+    margin-bottom: 15px;
+  }
+
+.card-title {
+    margin-top: 25px;
+    margin-left: 150px; 
+    position: relative;
+    font-weight: bold; 
+  font-size: 24px;
+  }
+ 
+
+ 
+.card {
+    width: 75rem;
+    max-width: 1200px;
+    max-height: 800px;
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 2px;
+  }
+
+  
+  .form-control {
+    width: 75%;
+    padding: 0.375rem 0.75rem;
+    /* margin-bottom: 1rem; */
+    border: 2px solid #ced4da;
+    border-radius: 0.25rem;
+  }
+  
+  .form-select {
+    width: 75%;
+    /* padding: 0.475rem 0.85rem; */
+    /* margin-bottom: 1rem; */
+    border: 2px solid #ced4da;
+    border-radius: 0.25rem;
+  }

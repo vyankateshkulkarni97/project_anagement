@@ -1,0 +1,31 @@
+.left-nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100px;
+    background-color: #b6b6b6; 
+    padding-top: 70px; 
+  }
+  
+  .Nav-ul {
+    list-style-type: none;
+    padding: 15px;
+  }
+  
+  .Nav-ul li {
+    margin-bottom: 50px;
+  }
+  
+  .Nav-ul li a {
+    text-decoration: none;
+    color: rgb(2, 2, 2); 
+    padding: 10px;
+    display: block;
+  }
+  
+  .Nav-ul li a:hover {
+    background-color: #52a5e9; 
+    
+  }
+  

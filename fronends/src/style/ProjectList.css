@@ -1,0 +1,119 @@
+.list {
+    margin-left: 50px;
+    max-height: 900px;
+  }
+
+/* .container{
+  height: 800px;
+} */
+
+.card {
+    width: 200%;
+    max-width: 1800px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h1 {
+    margin-bottom: 10px;
+  }
+  
+  .card input {
+    margin-bottom: 15px;
+    padding: 8px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+  }
+  
+  .table th {
+    cursor: pointer;
+    background-color: #f2f2f2;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .table button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+
+
+.button1 {
+    background-color: #28a745; 
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button2 {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button3 {
+    background-color: #dc3545; 
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ 
+  .button1:hover, .button2:hover, .button3:hover {
+    opacity: 0.8;
+  }
+  
+
+
+.pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  .page{
+    margin-left: 60px;
+  }
+  .page-item {
+    margin-right: 5px;
+  }
+  
+  .page-link {
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .page-link:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
